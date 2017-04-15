@@ -349,7 +349,7 @@ ul.srt-menu li:hover li ul, ul.srt-menu li.sfHover li ul { top: -999em; }
 ul.srt-menu li li:hover ul, ul.srt-menu li li.sfHover ul { left: 200px; top: 0; }
 ul.srt-menu li li:hover li ul, ul.srt-menu li li.sfHover li ul { top: -999em; }
 ul.srt-menu li li li:hover ul, ul.srt-menu li li li.sfHover ul { left: 10em; top: 0; }
-#topnav { height:40px; background: none repeat scroll 0 0 #fdbf0c;padding: 0 5px; }
+#topnav { height:40px; background: none repeat scroll 0 0 #349054;padding: 0 5px; }
 .srt-menu li { list-style: none outside none; }
 .srt-menu a { text-decoration: none; }
 .srt-menu > li > a { text-transform: uppercase; }
