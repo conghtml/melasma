@@ -318,7 +318,7 @@ body { background: #eee; color: #2A9E53; font-family: Tahoma, Verdana, Segoe, sa
 .khung-anh img { width:439px; height:263px; border:1px solid #000; }
 .khung-tin-tuc { width:100%; float:left; background: #eee; }
 .khungtinlq { float: left; width: 98%; margin-top:20px; }
-.khungtinlq a { color:#000; font-weight:bold; }
+.khungtinlq a { color:  #009254; font-weight:bold; }
 .khungtinlq a:hover { color: #E84242; }
 .khungtinlq img { float:left; margin-left:20px; margin-right:20px; width: 156px; height: 97px; border: 1px solid rgba(0,0,0,0.8) }
 .can-le-tin-tuc { width: 50%; padding-top: 20px; padding-left: 26px; float: left; }
