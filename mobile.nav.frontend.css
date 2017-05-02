@@ -54,7 +54,7 @@ body{position:relative!important;}
 #sdrn_menu.sdrn_levels ul li ul li ul li ul li ul li.sdrn_parent_item_li{padding-left:0px;}
 #sdrn_menu.sdrn_levels ul li ul li ul li ul li ul li.sdrn_parent_item_li .sdrn_icon_par{margin-left:176px;}
 #sdrn_menu.sdrn_levels ul li ul li ul li ul li ul li.sdrn_parent_item_li a.sdrn_parent_item{margin-left:220px;}
-.icon_default.sdrn_icon_par:before{content:"t";}
+.icon_default.sdrn_icon_par:before{content:"&#62;";}
 .icon_default.sdrn_par_opened:before{content:"o";}
 .icon-glass:before{content:"\f000"!important;}
 .icon-music:before{content:"\f001"!important;}
