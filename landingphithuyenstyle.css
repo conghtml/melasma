@@ -144,7 +144,7 @@
 	color: #ecec06;
 	text-transform: uppercase;
 	font-family: "UTMNeoSansIntel-Bold";
-	font-size: 28px;
+	font-size: 18px;
 	text-align: center;
   	padding:5px 0px;
 }
@@ -272,7 +272,7 @@
 	padding-left: 55px;
 }
 .text_one ul.item li span {
-    font-size: 16px;
+    font-size: 14px;
     text-transform: none;
     text-align: left;
     color: #fff;
